@@ -12,8 +12,7 @@ cd ~/MagicMirror/modules
 git clone https://github.com/powerjc/MMM-SunsetCountdown/
 ```
 
-## Configuration
-### Simple
+## Configuration Example
 ```
 {
   module: "MMM-DailyAlarm",
