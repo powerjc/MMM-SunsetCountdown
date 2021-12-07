@@ -1,23 +1,15 @@
 # MMM-DailyAlarm
-MagicMirror module for daily recurrent event alarms
-
-## Screenshot
-![Screenshot](https://raw.githubusercontent.com/eouia/MMM-DailyAlarm/master/sc.png)
+MagicMirror module for daily countdown to sunset clock
 
 ## Features
-- Showing time remained & passed for daily recurrent events
-- Exception rule by day available
-- beforeText / afterText
-- Showing & hiding by defined time
-- Alarm sound playable
-- Notification enable
+- Showing time until local sunset
 - Custom CSS for each event.
 - At 00AM of each day, events will be refreshed.
 
 ## Installation
 ```
 cd ~/MagicMirror/modules
-git clone https://github.com/eouia/MMM-DailyAlarm
+git clone https://github.com/powerjc/MMM-SunsetCountdown/
 ```
 
 ## Configuration
@@ -70,6 +62,3 @@ git clone https://github.com/eouia/MMM-DailyAlarm
   }
 },
 ```
-
-### WARNING
-not yet tested enough.
