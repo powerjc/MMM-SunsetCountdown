@@ -1,4 +1,4 @@
-# MMM-DailyAlarm
+# MMM-SunsetCountdown
 MagicMirror module for daily countdown to sunset clock
 
 ## Features
