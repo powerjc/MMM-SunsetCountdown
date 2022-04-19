@@ -15,7 +15,7 @@ git clone https://github.com/powerjc/MMM-SunsetCountdown/
 ## Configuration Example
 ```
 {
-  module: "MMM-DailyAlarm",
+  module: "MMM-SunsetCountdown",
   position:"top_right",
   config: {
     event: "Sunset in:",
